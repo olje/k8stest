@@ -1,0 +1,4 @@
+create database helloDB; 
+use helloDB;
+create table helloworld (name VARCHAR(20));
+insert into helloworld values ("Hello world");
